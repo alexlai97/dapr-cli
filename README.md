@@ -727,3 +727,4 @@ See the [Development Guide](https://github.com/dapr/cli/blob/master/docs/develop
 ## Code of Conduct
 
 Please refer to our [Dapr Community Code of Conduct](https://github.com/dapr/community/blob/master/CODE-OF-CONDUCT.md)
+
